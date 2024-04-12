@@ -1,17 +1,16 @@
-# Rutas de vehículos con ventanas de tiempo🚗
+# Proyecto Terminal 📜
 
-## Algortimo para resolver el vrptw con colonia de hormigas y evolución diferencial
+# Rutas de vehículos con ventanas de tiempo 🚗
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/C-4.2.1-green?style=flat&logo=cpp&logoColor=ffffff)](https://devdocs.io/c/)
 [![Python](https://img.shields.io/badge/Python-v3.12.0-green?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/)
 
+## Introducción
 
-## Objetivo 🙌🏻
+## Objetivo
 
-## Requerimientos 
-
-## Ejecución del proyecto
+## Descripción del proyecto
 
 
 ## Autores
@@ -33,9 +32,14 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 - **Instagram:** [Williams Chan](https://www.instagram.com/williamschan)
 - **Facebook:** [Williams Chan](https://www.facebook.com/williams.pescador/)
 
+## Trabajos Relacionados
+[🎨Infografía](https://drive.google.com/file/d/1N7CSbbh-XNB6k5zAZJr2cQ3qgUilKi_F/view?usp=sharing) Ganadora en la categoría Infografía en la División de Ciencias Naturales e Ingeniería en el marco del V Simposio de las Licenciaturas de DCNI 2023.
+
+[🥇Constancia](https://drive.google.com/file/d/1cjh7rw3e89-_WYlkiLRuJnAwJRhTkHkU/view?usp=sharing) Contancia por ganar en la categoría Infografía con el tema Vehicle Routing Problem (VRP).
+
 
 ## Licencia
 Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ---
-Hecho por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 💻
+Hecho por [Williams Chan Pescador](https://github.com/williams123000) 💻
