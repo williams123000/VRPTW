@@ -14,8 +14,16 @@
 ## Ejecución del proyecto
 
 
-## Licencia 🪪
+## Licencia
 Este proyecto está bajo la [licencia MIT](./LICENSE).
+
+## Autores
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
+| :---: | :---: | :---: |
+
+## Contacto
+
+
 
 
 ---
