@@ -34,10 +34,10 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 - **Facebook:** [Williams Chan](https://www.facebook.com/williams.pescador/)
 
 ## Trabajos Relacionados
-
+[Infografía](https://drive.google.com/file/d/1N7CSbbh-XNB6k5zAZJr2cQ3qgUilKi_F/view?usp=sharing)
 
 ## Licencia
 Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ---
-Hecho por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 💻
+Hecho por [Williams Chan Pescador](https://github.com/williams123000) 💻
