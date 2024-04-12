@@ -3,7 +3,7 @@
 ## Algortimo para resolver el vrptw con colonia de hormigas y evolución diferencial
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F19%2FC_Logo.png)](https://devdocs.io/c/)
+[![Python](https://img.shields.io/badge/C-4.2.1-green?style=flat&logo=python&logoColor=ffffff)](https://devdocs.io/c/)
 
 
 ## Objetivo 🙌🏻
