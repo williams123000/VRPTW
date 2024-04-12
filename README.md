@@ -35,7 +35,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 
 ## Licencia
-Este proyecto está bajo la [licencia MIT](.VRPTW/LICENSE).
+Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ---
 Hecho por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 💻
