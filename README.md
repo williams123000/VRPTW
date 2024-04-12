@@ -36,6 +36,9 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 - **Instagram:** [Williams Chan](https://www.instagram.com/williamschan)
 - **Facebook:** [Williams Chan](https://www.facebook.com/williams.pescador/)
 
+## Contribución
+
+Si deseas contribuir al proyecto, ¡estaré encantado/a de recibir tus aportaciones! Por favor, consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener más detalles sobre cómo colaborar.
 
 ---
 Hecho por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 💻
