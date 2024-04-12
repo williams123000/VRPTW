@@ -27,7 +27,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 - **Correo Electrónico Personal:** [williamschan72@gmail.com](mailto:williamschan72@gmail.com)
 - **Correo Electrónico Institucional:** [williams.chan@cua.uam.mx](mailto:williams.chan@cua.uam.mx)
-- 
+  
 ## Redes sociales
 
 ¡Conéctate conmigo en mis redes sociales!
