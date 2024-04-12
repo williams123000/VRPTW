@@ -19,4 +19,4 @@ Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 
 ---
-💻 con ❤️ por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 😊
+Hecho por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 💻
