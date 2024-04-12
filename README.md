@@ -35,6 +35,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 ## Trabajos Relacionados
 [🎨Infografía](https://drive.google.com/file/d/1N7CSbbh-XNB6k5zAZJr2cQ3qgUilKi_F/view?usp=sharing) Ganadora en la categoría Infografía en la División de Ciencias Naturales e Ingeniería en el marco del V Simposio de las Licenciaturas de DCNI 2023.
+
 [📜Constancia](https://drive.google.com/file/d/1cjh7rw3e89-_WYlkiLRuJnAwJRhTkHkU/view?usp=sharing)
 
 
