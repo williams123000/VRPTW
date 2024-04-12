@@ -18,7 +18,7 @@
 Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ## Autores
-| [<img src="https://media.licdn.com/dms/image/D4E03AQGBQ8UgY0VdCg/profile-displayphoto-shrink_200_200/0/1712587269099?e=1718236800&v=beta&t=FzunufKMeNvn0V5mVPv6PAkhr5WNm6G3drEXB4iyxM0" width=100 height=120><br><sub>Williams Chan Pescador</sub>](https://github.com/camilafernanda) |  [<img src="https://investigacion.uam.mx/images/fichas/88651_a.jpg" width=100 height=120><br><sub>Edwin Montes Orozco</sub>](https://github.com/camilafernanda) |  [<img src="https://dcni.cua.uam.mx/intranet/src/fotoProfes/1916832396IMG_8569.jpg" width=100 height=120><br><sub>Abel García Nájera</sub>](https://github.com/genesysaluralatam) |
+| [<img src="https://media.licdn.com/dms/image/D4E03AQGBQ8UgY0VdCg/profile-displayphoto-shrink_200_200/0/1712587269099?e=1718236800&v=beta&t=FzunufKMeNvn0V5mVPv6PAkhr5WNm6G3drEXB4iyxM0" width=120 height=120><br><sub>Williams Chan Pescador</sub>](https://github.com/camilafernanda) |  [<img src="https://investigacion.uam.mx/images/fichas/88651_a.jpg" width=100 height=120><br><sub>Edwin Montes Orozco</sub>](https://github.com/camilafernanda) |  [<img src="https://dcni.cua.uam.mx/intranet/src/fotoProfes/1916832396IMG_8569.jpg" width=100 height=120><br><sub>Abel García Nájera</sub>](https://github.com/genesysaluralatam) |
 | :---: | :---: | :---: |
 
 ## Contacto
