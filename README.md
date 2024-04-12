@@ -2,18 +2,15 @@
 
 # Rutas de vehículos con ventanas de tiempo🚗
 
-## Algortimo para resolver el vrptw con colonia de hormigas y evolución diferencial
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/C-4.2.1-green?style=flat&logo=cpp&logoColor=ffffff)](https://devdocs.io/c/)
 [![Python](https://img.shields.io/badge/Python-v3.12.0-green?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/)
 
+## Introducción
 
-## Objetivo 🙌🏻
+## Objetivo
 
-## Requerimientos 
-
-## Ejecución del proyecto
+## Descripción del proyecto
 
 
 ## Autores
