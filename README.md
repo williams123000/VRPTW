@@ -14,9 +14,6 @@
 ## Ejecución del proyecto
 
 
-## Licencia
-Este proyecto está bajo la [licencia MIT](./LICENSE).
-
 ## Autores
 | [<img src="https://media.licdn.com/dms/image/D4E03AQGBQ8UgY0VdCg/profile-displayphoto-shrink_200_200/0/1712587269099?e=1718236800&v=beta&t=FzunufKMeNvn0V5mVPv6PAkhr5WNm6G3drEXB4iyxM0" width=120 height=120><br><sub>Williams Chan Pescador</sub><br><sub>Desarrollador</sub>](https://github.com/williams123000) |  [<img src="https://investigacion.uam.mx/images/fichas/88651_a.jpg" width=100 height=120><br><sub>Edwin Montes Orozco</sub><br><sub>Tutor</sub>](https://investigacion.uam.mx/index.php/listado-catalogo/88651) |  [<img src="https://dcni.cua.uam.mx/intranet/src/fotoProfes/1916832396IMG_8569.jpg" width=100 height=120><br><sub>Abel García Nájera</sub><br><sub>Tutor</sub>](https://dcni.cua.uam.mx/division/usuario?p=89) |
 | :---: | :---: | :---: |
@@ -36,9 +33,9 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 - **Instagram:** [Williams Chan](https://www.instagram.com/williamschan)
 - **Facebook:** [Williams Chan](https://www.facebook.com/williams.pescador/)
 
-## Contribución
 
-Si deseas contribuir al proyecto, ¡estaré encantado/a de recibir tus aportaciones! Por favor, consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener más detalles sobre cómo colaborar.
+## Licencia
+Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ---
 Hecho por [Williams Chan Pescador]([https://github.com/newton1057](https://github.com/williams123000)https://github.com/williams123000) 💻
