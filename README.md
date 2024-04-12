@@ -1,6 +1,6 @@
-# Proyecto Terminal 
+# Proyecto Terminal 📜
 
-# Rutas de vehículos con ventanas de tiempo🚗
+# Rutas de vehículos con ventanas de tiempo 🚗
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/C-4.2.1-green?style=flat&logo=cpp&logoColor=ffffff)](https://devdocs.io/c/)
@@ -35,7 +35,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 ## Trabajos Relacionados
 [🎨Infografía](https://drive.google.com/file/d/1N7CSbbh-XNB6k5zAZJr2cQ3qgUilKi_F/view?usp=sharing) Ganadora en la categoría Infografía en la División de Ciencias Naturales e Ingeniería en el marco del V Simposio de las Licenciaturas de DCNI 2023.
 
-[📜Constancia](https://drive.google.com/file/d/1cjh7rw3e89-_WYlkiLRuJnAwJRhTkHkU/view?usp=sharing) Contancia por ganar en la categoría Infografía con el tema Vehicle Routing Problem (VRP).
+[🥇Constancia](https://drive.google.com/file/d/1cjh7rw3e89-_WYlkiLRuJnAwJRhTkHkU/view?usp=sharing) Contancia por ganar en la categoría Infografía con el tema Vehicle Routing Problem (VRP).
 
 
 ## Licencia
