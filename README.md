@@ -23,7 +23,13 @@ Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ## Contacto
 
+¡Conéctate conmigo en mis redes sociales!
 
+- **Gmail Personal:** [Williams Chan](williamschan72@gmail.com)
+- **Gmail Institucional:** [Williams Chan](williams.chan@cua.uam.mx)
+- **LinkedIn:** [Williams Chan](https://www.linkedin.com/in/williams-chan-998ba4302/)
+- **Instagram:** [Williams Chan](https://www.instagram.com/williamschan)
+- **Facebook:** [Williams Chan](https://www.facebook.com/williams.pescador/)
 
 
 ---
