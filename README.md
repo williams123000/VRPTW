@@ -42,4 +42,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 Este proyecto está bajo la [licencia MIT](./LICENSE).
 
 ---
-Hecho por [Williams Chan Pescador](https://github.com/williams123000) 💻
+Hecho por [Williams Chan Pescador](https://github.com/williams123000) 💻.
